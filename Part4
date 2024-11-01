@@ -1,0 +1,10 @@
+4. Thao tác với Tệp và Thư Viện Hữu Ích
+4.1 Thao tác Tệp
+
+Đọc và ghi tệp: Sử dụng open(), read(), write(), và close() để làm việc với các tệp văn bản và CSV.
+4.2 Các thư viện tiêu chuẩn
+
+Datetime: Làm việc với ngày và giờ.
+Random: Sinh các giá trị ngẫu nhiên, hữu ích cho thử nghiệm và trò chơi.
+Math: Cung cấp các hàm toán học như sqrt, sin, cos, v.v.
+OS và Sys: Làm việc với hệ thống và tệp hệ điều hành.
