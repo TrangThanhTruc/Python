@@ -1,0 +1,8 @@
+6. Automation và Web Scraping
+6.1 Automation với Selenium
+
+Selenium: Sử dụng Selenium để tự động hóa trình duyệt web, như tìm kiếm và nhập dữ liệu tự động.
+6.2 Web Scraping với BeautifulSoup và Requests
+
+Requests: Lấy nội dung trang web.
+BeautifulSoup: Phân tích và trích xuất dữ liệu HTML.
