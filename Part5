@@ -1,0 +1,14 @@
+5. Phân Tích Dữ Liệu
+5.1 NumPy
+
+Mảng NumPy: Hiểu cách tạo mảng, thao tác trên mảng, tính toán.
+Thao tác với mảng: Các phép tính toán, thống kê, và các hàm phổ biến trong NumPy.
+5.2 Pandas
+
+DataFrame và Series: Cấu trúc dữ liệu chính trong Pandas để thao tác với dữ liệu bảng.
+Xử lý dữ liệu: Đọc, lọc, sắp xếp, nhóm và làm sạch dữ liệu.
+Xuất dữ liệu: Lưu dữ liệu sang các định dạng như CSV, Excel.
+5.3 Trực quan hóa dữ liệu với Matplotlib và Seaborn
+
+Matplotlib: Vẽ biểu đồ đơn giản như biểu đồ cột, đường, tán sắc.
+Seaborn: Trực quan hóa dữ liệu thống kê nâng cao, tương tác dễ dàng với Pandas.
