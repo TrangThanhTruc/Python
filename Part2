@@ -1,0 +1,17 @@
+2. Làm việc với Cấu Trúc Dữ Liệu
+2.1 List
+
+Tạo và thao tác với List: Các phương thức như append, remove, index, sort, reverse.
+2.2 Tuple
+
+Tạo Tuple: Tính chất không thay đổi được, dùng để lưu trữ dữ liệu cố định.
+2.3 Set
+
+Tạo Set: Đặc tính không cho phép các phần tử trùng lặp.
+2.4 Dictionary
+
+Tạo và thao tác với Dictionary: Dùng để lưu trữ dữ liệu dạng key: value.
+Các phương thức quan trọng: get, keys, values, items.
+2.5 List Comprehension
+
+Hiểu cách tạo danh sách một cách ngắn gọn và hiệu quả hơn với list comprehension.
