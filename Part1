@@ -1,0 +1,27 @@
+1. Kiến thức Cơ Bản của Python
+1.1 Cài đặt Python và IDE
+
+Python: Tải và cài đặt Python từ trang python.org.
+IDE: Chọn IDE phù hợp như PyCharm, Visual Studio Code, hoặc Jupyter Notebook để viết mã.
+1.2 Biến và kiểu dữ liệu
+
+Biến (Variables): Hiểu cách tạo và sử dụng biến.
+Kiểu dữ liệu cơ bản:
+int, float (số nguyên, số thập phân).
+str (chuỗi ký tự).
+bool (giá trị logic: True hoặc False).
+1.3 Cấu trúc điều kiện
+
+Câu lệnh if, else, elif: Cách sử dụng để ra quyết định.
+Toán tử so sánh và logic: ==, !=, <, >, and, or, not.
+1.4 Vòng lặp
+
+Vòng lặp for: Lặp qua một chuỗi, danh sách, hoặc phạm vi.
+Vòng lặp while: Lặp lại cho đến khi điều kiện sai.
+1.5 Hàm
+
+Định nghĩa hàm: Sử dụng def để tạo hàm.
+Tham số và giá trị trả về: Hiểu cách truyền tham số và trả về giá trị.
+1.6 Xử lý lỗi
+
+Câu lệnh try, except: Bắt lỗi và xử lý lỗi ngoại lệ để chương trình không bị dừng đột ngột.
